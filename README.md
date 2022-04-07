@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-🌱 I’m currently learning at 42 Paris to become a developer...
-
+👨‍💻 Full-stack developper | Freelance | Aspiring Pentester
 
 [![aldubar's 42 stats](https://badge42.vercel.app/api/v2/cl1p4dvqu002109k1x3fvx39n/stats?cursusId=21&coalitionId=48)](https://github.com/JaeSeoKim/badge42)
 
