@@ -8,7 +8,7 @@
 
 ![busshi's GitHub stats](https://github-readme-stats.vercel.app/api?username=busshi&show_icons=true&theme=gruvbox)
 
-[Dockerhub](https://hub.docker.com/u/busshi)
-[NPM](https://www.npmjs.com/search?q=busshi)
+- [Dockerhub](https://hub.docker.com/u/busshi)
+- [NPM](https://www.npmjs.com/search?q=busshi)
 
-[Hire me](https://www.malt.fr/profile/alexandredubar)
+🔥 [Hire me](https://www.malt.fr/profile/alexandredubar) 🔥
