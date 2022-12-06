@@ -11,7 +11,7 @@
 
 Check my contributions:
 ---
-| ![dockerhub]([URL](https://about.gitlab.com/images/devops-tools/docker-hub-logo.png) "dockerhub") | ![npm]([URL](https://authy.com/wp-content/uploads/npm-logo.png) "NPM")  |
+| ![dockerhub]([URL](https://about.gitlab.com/images/devops-tools/docker-hub-logo.png) "dockerhub") | ![[npm]([URL](https://authy.com/wp-content/uploads/npm-logo.png](https://icons8.com/icon/24895/npm) "NPM")](https://icons8.com/icon/24895/npm)  |
 | :------------: |:---------------:|
 | [Dockerhub](https://hub.docker.com/u/busshi) | [NPM](https://www.npmjs.com/search?q=busshi) |
 
@@ -19,3 +19,8 @@ Check my contributions:
 Lets work together!
 ---
 🔥 [Hire me](https://www.malt.fr/profile/alexandredubar) 🔥
+
+
+
+
+<a target="_blank" href="https://icons8.com/icon/24895/npm">NPM</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
