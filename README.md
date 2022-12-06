@@ -12,7 +12,7 @@
 Check my contributions:
 ---
 <img src="https://icons8.com/icon/cdYUlRaag9G9/docker" width="100px" height="100px align="center"
-![npm](https://icons8.com/icon/24895/npm | width=100)
+![npm]([https://icons8.com/icon/24895/npm | width=100](https://img.icons8.com/color/48/null/npm.png))
 [Dockerhub](https://hub.docker.com/u/busshi)
 [NPM](https://www.npmjs.com/search?q=busshi)
 
