@@ -12,8 +12,7 @@
 Check my contributions:
 ---
 
-| ![[Dockerhub](https://hub.docker.com/u/busshi)](https://img.icons8.com/fluency/48/null/docker.png") |
-| ![[NPM](https://www.npmjs.com/search?q=busshi)](https://img.icons8.com/color/48/null/npm.png) |
+| ![[Dockerhub](https://hub.docker.com/u/busshi)](https://img.icons8.com/fluency/48/null/docker.png) | ![[NPM](https://www.npmjs.com/search?q=busshi)](https://img.icons8.com/color/48/null/npm.png) |
 
 
 Lets work together!
