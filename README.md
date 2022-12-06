@@ -11,7 +11,7 @@
 
 Check my contributions:
 ---
-| ![dockerhub](https://icons8.com/icon/cdYUlRaag9G9/docker | width=100) | ![npm](https://icons8.com/icon/24895/npm | width=100) |
+| <img src="https://icons8.com/icon/cdYUlRaag9G9/docker" width="100px" height="100px align="center") | ![npm](https://icons8.com/icon/24895/npm | width=100) |
 | :------------: |:---------------:|
 | [Dockerhub](https://hub.docker.com/u/busshi) | [NPM](https://www.npmjs.com/search?q=busshi) |
 
@@ -19,4 +19,3 @@ Check my contributions:
 Lets work together!
 ---
 🔥 [Hire me](https://www.malt.fr/profile/alexandredubar) 🔥
-<img src="https://github.com/darsaveli/Mariam/blob/main/1479814528_webarebears.gif" width="385px" align="center">
