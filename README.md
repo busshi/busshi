@@ -12,8 +12,8 @@
 Check my contributions:
 ---
 
-![[Dockerhub](https://img.icons8.com/fluency/48/null/docker.png)](https://hub.docker.com/u/busshi)
-![[NPM](https://img.icons8.com/color/48/null/npm.png)](https://www.npmjs.com/search?q=busshi)
+[![Dockerhub](https://img.icons8.com/fluency/48/null/docker.png)](https://hub.docker.com/u/busshi)
+[![NPM](https://img.icons8.com/color/48/null/npm.png)](https://www.npmjs.com/search?q=busshi)
 
 
 Lets work together!
