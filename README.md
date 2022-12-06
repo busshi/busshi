@@ -11,10 +11,9 @@
 
 Check my contributions:
 ---
-<img src="https://icons8.com/icon/cdYUlRaag9G9/docker" width="100px" height="100px align="center">
-![npm](https://img.icons8.com/color/48/null/npm.png)
-[Dockerhub](https://hub.docker.com/u/busshi)
-[NPM](https://www.npmjs.com/search?q=busshi)
+
+| ![[Dockerhub](https://hub.docker.com/u/busshi)](https://img.icons8.com/fluency/48/null/docker.png") |
+| ![[NPM](https://www.npmjs.com/search?q=busshi)](https://img.icons8.com/color/48/null/npm.png) |
 
 
 Lets work together!
