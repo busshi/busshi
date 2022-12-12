@@ -16,5 +16,5 @@ Some open source contributions:
 
 Contacts
 ---
-[![LinkedIn](https://icons8.com/icon/xuvGCOXi8Wyg/linkedin)](https://www.linkedin.com/in/alexandre-dubar/)
-[![🔥 Hire me 🔥](https://github.com/busshi.busshi/assets/malt.png)](https://www.malt.fr/profile/alexandredubar)
+[![LinkedIn](https://img.icons8.com/fluency/48/null/linkedin.png)](https://www.linkedin.com/in/alexandre-dubar/)
+[![🔥 Hire me 🔥](https://github.com/busshi/busshi/assets/malt.png)](https://www.malt.fr/profile/alexandredubar)
