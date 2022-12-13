@@ -7,7 +7,7 @@
 ![busshi's GitHub stats](https://github-readme-stats.vercel.app/api?username=busshi&show_icons=true&theme=gruvbox)
 
 
-Some open source contributions:
+Some open source contributions
 ---
 
 [![Dockerhub](https://img.icons8.com/fluency/48/null/docker.png)](https://hub.docker.com/u/busshi)
