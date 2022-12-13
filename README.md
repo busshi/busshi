@@ -6,8 +6,6 @@
 
 ![busshi's GitHub stats](https://github-readme-stats.vercel.app/api?username=busshi&show_icons=true&theme=gruvbox)
 
-![busshi's Github languages stats](https://github-readme-stats.vercel.app/api/top-langs/?username=busshi&layout=compact&theme=radical)
-
 Open source contributions
 ---
 
