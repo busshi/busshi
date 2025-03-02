@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-![snake gif](https://github.com/SingularisArt/SingularisArt/blob/output/github-contribution-grid-snake.svg)
-
-👨‍💻 Full-stack developper | Freelance | Aspiring Pentester
+👨‍💻 Full-stack developer | Freelance | Aspiring Pentester
 
 
 Open source contributions
