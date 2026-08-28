@@ -8,7 +8,7 @@
   <a href="https://busshidev.fr">
     <img src="https://img.shields.io/badge/📅_Book_a_free_30--min_call-000000?style=for-the-badge&logoColor=white" alt="Book a call"/>
   </a>
-  <a href="https://www.malt.fr/profile/alexandredubar">
+  <a href="https://busshidev.fr">
     <img src="https://img.shields.io/badge/Now_booking_·_limited_slots-2ea44f?style=for-the-badge" alt="Now booking"/>
   </a>
 </p>
