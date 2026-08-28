@@ -28,7 +28,7 @@
   <img src="assets/clients.png" width="880" alt="La Poste · Ministère de l'Éducation nationale · Station F · Price Bee · Notice · MCDS · Octolo" />
 </p>
 
-> Client work from 2022 to 2025 — robust, maintainable code, continuously optimized after launch.
+> Delivering for clients since 2022 — robust, maintainable code, continuously optimized after launch.
 
 ### 🛠️ Stack
 
@@ -65,7 +65,9 @@
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-Trained at **[42 Paris](https://42.fr/)** (systems, C/C++, networking) — and a pentester in the making: I write code with security in mind.
+**Trained at [42 Paris](https://42.fr/)** — the selective, project-based CS school (peer-to-peer, no lectures, no grades) where you build everything from scratch: memory allocators, a shell, a web server, network protocols, graphics engines, all in C/C++ on Unix. Admission through the "Piscine", a 4-week elimination bootcamp. It's where I learned to ship under pressure, read other people's code fast, and reason about performance and security down to the byte.
+
+On top of that I'm training as a **penetration tester** — so I design and review systems with an attacker's mindset, not as an afterthought.
 
 ### 🚀 Let's work together
 
