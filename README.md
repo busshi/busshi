@@ -1,7 +1,7 @@
 <h1 align="center">Freelance Full-Stack Developer</h1>
 <p align="center">
   <strong>I turn your ideas into fast, reliable, revenue-driving web products.</strong><br/>
-  React · TypeScript · Node.js · Next.js — from concept to production, no middleman.
+  Python · TypeScript · Node.js · Next.js — from concept to production, no middleman.
 </p>
 
 <p align="center">
